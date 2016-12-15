@@ -8,8 +8,8 @@ Q2: How is the staging area different from the working directory and the reposit
 
  What value do you think it offers?
 
-A2: The staging area is an intermediate area used to add files and begin tracking changes of those files
-It offers the possibility to add only those files that I want to add so that is possible to make ine commits per 
+A2: The staging area is an intermediate area used to add files and begin tracking changes of those files added
+It offers the possibility to add only those files that I wanted to add. In this way is possible to make one commit per 
 logical step
 
 
